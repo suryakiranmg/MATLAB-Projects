@@ -40,6 +40,9 @@ set main=mdf_combine_inca_calterm.py
 goto :RunTheSript
 
 :Label_4
+@echo Wrong Choice! Check your input.
+pause
+exit /B 0
 set env_name=fie_env
 set main=combine_fie_logs.py
 goto :RunTheSript
