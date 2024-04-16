@@ -16,3 +16,6 @@ Design of xEV (electric and hybrid vehicles) powertrain using MATLAB, by creatin
 Range = Distance traveled at 80% DoD
 
 ![alt text](Range_Model.PNG)  
+
+## Electric Motor Efficiency Plots
+![alt text](EM_Efficiency_plot.PNG)  
