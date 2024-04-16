@@ -8,6 +8,10 @@ Design of xEV (electric and hybrid vehicles) powertrain using MATLAB, by creatin
 
 ![alt text](WOT_Acc_Curve.PNG)  
 
+## Drive Cycle Simulations
+
+![alt text](1.PNG) ![alt text](2.PNG) ![alt text](3.PNG) ![alt text](4.PNG) ![alt text](5.PNG) 
+
 ## Range Simulation for GM EV1
 
 ![alt text]()  
